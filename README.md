@@ -18,6 +18,8 @@ Aplicación de consola que permite realizar un cuestionario tipo test, corregir 
 - `cargar_cuestionario.py`: ejecuta el cuestionario
 - `mostrar_ranking.py`: muestra el ranking
 - `guardar_ranking.py`: guarda resultados en el ranking
+- `mostrar_resultados.py`: muestra los resultados al finalizar las preguntas
+- `obtener_respuesta.py`: ejecuta la lógica de comprobación de las preguntas
 - `preguntas.txt`: contiene las preguntas
 - `ranking.txt`: contiene los resultados
 
